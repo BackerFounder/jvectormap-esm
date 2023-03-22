@@ -1,0 +1,19 @@
+{
+  "name": "jvectormap-esm",
+  "version": "1.0.0",
+  "description": "針對 jvectormap 套件 build 出來的檔案，調整成 esm 的 output 格式",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BackerFounder/jvectormap-esm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BackerFounder/jvectormap-esm/issues"
+  },
+  "homepage": "https://github.com/BackerFounder/jvectormap-esm#readme"
+}
